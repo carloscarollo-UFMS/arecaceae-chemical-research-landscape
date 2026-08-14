@@ -1,0 +1,16 @@
+﻿"Input";"Repository_path";"Exists";"Bytes"
+"study_design";"data/derived/study_design_summary.csv";TRUE;925
+"chemical_incidence";"data/interim/04C_incidence_article_taxon_organ_entity.csv";TRUE;2302976
+"chemical_articles";"data/interim/04C_articles_250.csv";TRUE;116589
+"species_analysis";"data/interim/02_species_analysis_with_GBIF_GHS.csv";TRUE;1693041
+"species_tree";"data/reference/01_species_tree_WCVP_pruned.tre";TRUE;84566
+"genus_tree";"data/reference/Species_tree_all_genes_rooted_original.tre";TRUE;48102
+"domain_architecture";"data/derived/Table_04C_02_domain_architecture.csv";TRUE;1359
+"class_architecture";"data/derived/Table_04C_03_class_architecture.csv";TRUE;6361
+"organ_architecture";"data/derived/Table_04C_04_organ_architecture.csv";TRUE;1272
+"organ_class";"data/derived/Table_04C_05_organ_class_incidence.csv";TRUE;19252
+"genus_class";"data/derived/Table_04C_07_genus_class_incidence.csv";TRUE;51125
+"genus_coverage";"data/derived/Table_05B_04_genus_coverage.csv";TRUE;4499
+"main_selection_models";"data/derived/Table_05B_05_main_selection_models.csv";TRUE;22776
+"trait_models";"data/derived/Table_05B_07_trait_specific_models.csv";TRUE;3200
+"socioeconomic_models";"data/derived/Table_05B_08_socioeconomic_models.csv";TRUE;3928

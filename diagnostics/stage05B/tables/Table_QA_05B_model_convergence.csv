@@ -1,0 +1,21 @@
+﻿"Model";"Framework";"Model_class";"N_species";"N_events";"Converged";"Iterations";"Fit_attempts";"Bias_reduction_type";"Optimizer_code";"Alpha_warning"
+"M0_logistic_geography";"Geographic availability";"Logistic; genus-clustered HC1 SE";2527;171;TRUE;6;1;;;
+"M1_logistic_morphology";"Morphology";"Logistic; genus-clustered HC1 SE";1602;152;TRUE;6;1;;;
+"M1_phylo_morphology";"Morphology";"Phylogenetic logistic MPLE";1601;152;TRUE;;1;;0;0
+"M2_logistic_accessibility";"Accessibility and exposure";"Logistic; genus-clustered HC1 SE";2198;167;TRUE;6;1;;;
+"M2_phylo_accessibility";"Accessibility and exposure";"Phylogenetic logistic MPLE";2006;166;TRUE;;1;;0;0
+"M3_logistic_combined";"Combined sensitivity";"Logistic; genus-clustered HC1 SE";1509;148;TRUE;6;1;;;
+"M3_phylo_combined";"Combined sensitivity";"Phylogenetic logistic MPLE";1508;148;TRUE;;1;;0;0
+"RANGE_native_L3_matched";"Range sensitivity; matched sample";"Logistic; genus-clustered HC1 SE";2527;171;TRUE;6;1;;;
+"RANGE_WCVP_total_matched";"Range sensitivity; matched sample";"Logistic; genus-clustered HC1 SE";2527;171;TRUE;6;1;;;
+"T01_Trait_leaf_blade_z";"Trait-specific";"Logistic; genus-clustered HC1 SE";1742;161;TRUE;5;1;;;
+"T02_Trait_climbing";"Trait-specific";"Logistic; genus-clustered HC1 SE";2209;170;TRUE;7;1;;;
+"T03_Trait_acaulescent";"Trait-specific";"Logistic; genus-clustered HC1 SE";2209;170;TRUE;6;1;;;
+"T04_Trait_erect";"Trait-specific";"Logistic; genus-clustered HC1 SE";2209;170;TRUE;7;1;;;
+"T05_Trait_solitary";"Trait-specific";"Logistic; genus-clustered HC1 SE";1978;167;TRUE;5;1;;;
+"T06_Trait_stem_armed";"Trait-specific";"Logistic; genus-clustered HC1 SE";2179;169;TRUE;5;1;;;
+"T07_Trait_leaves_armed";"Trait-specific";"Logistic; genus-clustered HC1 SE";2128;167;TRUE;5;1;;;
+"T08_Trait_canopy";"Trait-specific";"Logistic; genus-clustered HC1 SE";2016;164;TRUE;6;1;;;
+"S1_commodity_resolved";"Human use and economy";"Mean bias-reduced logistic";2527;171;TRUE;12;1;"AS_mean";;
+"S2_human_use_any";"Human use and economy";"Mean bias-reduced logistic";2527;171;TRUE;9;1;"AS_mean";;
+"S3_economic_quantitative";"Human use and economy";"Mean bias-reduced logistic";2527;171;TRUE;23;1;"AS_mean";;

@@ -1,0 +1,4 @@
+﻿"Model";"Definition";"Flag_column";"Flagged_studied";"Flagged_unstudied";"Unflagged_studied";"Unflagged_unstudied";"Fisher_odds_ratio";"Fisher_P_value";"Haldane_odds_ratio";"Haldane_CI_low";"Haldane_CI_high"
+"S1_commodity_resolved";"Species-resolved commodity flag";"Commodity_species_resolved";7;0;166;2409;Inf;0.00000000540472446641755;217.072072072072;12.3438896536706;3817.29631386092
+"S2_human_use_any";"Resolved or broad human-use candidate";"Human_use_any";11;2;162;2407;81.3355917207707;0.00000000000624770393565038;68.1507692307693;17.1980372099323;270.061477949544
+"S3_economic_quantitative";"Species with quantitative economic data";"Economic_quantitative_data_available";4;0;169;2409;Inf;0.0000195076201840769;127.938053097345;6.85927885486623;2386.27788382257

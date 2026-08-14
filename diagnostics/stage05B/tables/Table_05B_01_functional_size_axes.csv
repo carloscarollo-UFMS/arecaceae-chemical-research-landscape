@@ -1,0 +1,5 @@
+﻿"Axis";"Component";"Original_variable";"PC1_loading";"PC1_variance_explained";"Species_complete";"Interpretation"
+"Palm stature";"Maximum stem height";"MaxStemHeight_m";0.707106781186553;0.74312;1787;"Higher values indicate taller palms with thicker stems."
+"Palm stature";"Maximum stem diameter";"MaxStemDia_cm";0.707106781186542;0.74312;1787;"Higher values indicate taller palms with thicker stems."
+"Fruit size";"Average fruit length";"AverageFruitLength_cm";0.707106781186548;0.94463;1849;"Higher values indicate longer and wider fruits."
+"Fruit size";"Average fruit width";"AverageFruitWidth_cm";0.707106781186548;0.94463;1849;"Higher values indicate longer and wider fruits."

@@ -1,0 +1,8 @@
+﻿"Model";"Framework";"Model_class";"N_species";"N_events";"AIC";"AUC_in_sample";"Brier_score";"Phylogenetic_alpha";"Converged";"Iterations";"Fit_attempts";"Optimizer_code";"Alpha_warning";"AIC_comparison_note"
+"M0_logistic_geography";"Geographic availability";"Logistic; genus-clustered HC1 SE";2527;171;1071.20371174172;0.792388973282102;0.0565916072937709;;TRUE;6;1;;;"Compare AIC only among models fitted to identical species sets."
+"M1_logistic_morphology";"Morphology";"Logistic; genus-clustered HC1 SE";1602;152;832.80180093309;0.802976406533575;0.0739924257290128;;TRUE;6;1;;;"Compare AIC only among models fitted to identical species sets."
+"M1_phylo_morphology";"Morphology";"Phylogenetic logistic MPLE";1601;152;835.027617265849;;;0.171997334861348;TRUE;;1;0;0;"Compare AIC only among models fitted to identical species sets."
+"M2_logistic_accessibility";"Accessibility and exposure";"Logistic; genus-clustered HC1 SE";2198;167;871.183603179921;0.842409715281402;0.0524535495328368;;TRUE;6;1;;;"Compare AIC only among models fitted to identical species sets."
+"M2_phylo_accessibility";"Accessibility and exposure";"Phylogenetic logistic MPLE";2006;166;829.166181207379;;;0.116011874175065;TRUE;;1;0;0;"Compare AIC only among models fitted to identical species sets."
+"M3_logistic_combined";"Combined sensitivity";"Logistic; genus-clustered HC1 SE";1509;148;683.7681268058;0.859572651269933;0.0618202778531697;;TRUE;6;1;;;"Compare AIC only among models fitted to identical species sets."
+"M3_phylo_combined";"Combined sensitivity";"Phylogenetic logistic MPLE";1508;148;680.492413076288;;;0.184627082892133;TRUE;;1;0;0;"Compare AIC only among models fitted to identical species sets."

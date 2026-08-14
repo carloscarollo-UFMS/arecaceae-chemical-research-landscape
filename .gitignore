@@ -1,0 +1,32 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+Thumbs.db
+
+# Credentials and local configuration
+.Renviron
+*.pem
+*.key
+*token*
+*credential*
+
+# Copyrighted or raw source documents
+*.mhtml
+*.docx
+*.xlsx
+data/raw/
+full_texts/
+articles/
+
+# Large regenerable outputs
+results/figures/
+results/models/
+*.zip
+
+# renv local library; retain renv.lock
+renv/library/
+renv/staging/
+renv/python/
+

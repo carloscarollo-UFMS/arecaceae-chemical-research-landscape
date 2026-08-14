@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite the archived repository release and the associated article."
+title: "Arecaceae chemical research landscape: normalized data and reproducible analysis"
+type: software
+version: 1.0.0
+date-released: 2026-08-14
+authors:
+  - family-names: Carollo
+    given-names: Carlos Alexandre
+    orcid: "https://orcid.org/0000-0003-1231-9441"
+repository-code: "https://github.com/carloscarollo-UFMS/arecaceae-chemical-research-landscape"
+license: MIT
+

@@ -1,0 +1,13 @@
+ETAPA 05B — VIES DE SELECAO PARA ESTUDOS QUIMICOS
+Versao: 1.0.3
+Inicio: 2026-08-13 19:36:54
+Fim: 2026-08-13 19:37:59
+Duracao_min: 1.08
+Especies_WCVP: 2582
+Especies_estudadas: 173
+Main_models: 7
+Range_sensitivity_models: 2
+Trait_models: 8
+Socioeconomic_models: 3
+QA_falhas: 0
+CONCLUSAO: correlatos de selecao para pesquisa; associacao nao causal

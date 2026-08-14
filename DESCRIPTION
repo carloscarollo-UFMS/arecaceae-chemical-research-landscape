@@ -1,0 +1,26 @@
+Package: ArecaceaeChemicalResearchLandscape
+Type: Project
+Title: Reproducible Arecaceae Phytochemistry Evidence Map
+Version: 1.0.0
+Authors@R: person("Carlos Alexandre", "Carollo", role = c("aut", "cre"), email = "carloscarollo-UFMS@users.noreply.github.com", comment = c(ORCID = "0000-0003-1231-9441"))
+Description: Normalized inputs, upstream analytical scripts, diagnostics and the final manuscript pipeline for a curated evidence synthesis of phytochemical research in Arecaceae.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    ape,
+    brglm2,
+    data.table,
+    ggplot2,
+    MASS,
+    patchwork,
+    phylolm,
+    rWCVP,
+    sandwich,
+    scales,
+    sf,
+    svglite
+Suggests:
+    ragg,
+    renv,
+    rstudioapi
+

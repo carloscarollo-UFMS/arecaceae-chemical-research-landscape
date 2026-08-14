@@ -1,0 +1,46 @@
+﻿"Domain_analysis";"Class_analysis";"Metabolite_scope";"Article_count";"Current_species_count";"Genus_count";"Organ_count";"Incidence_record_count";"Evidence_record_count";"Chemical_entity_count";"Exact_structure_count";"Resolved_class_count";"Entity_fraction_total";"Species_prevalence_current";"Article_prevalence";"Entities_per_article_observed"
+"Alkaloids and nitrogen compounds";"Other alkaloids/nitrogen compounds";1;12;4;3;7;61;100;20;10;1;0.0121580547112462;0.023121387283237;0.048;1.66666666666667
+"Alkaloids and nitrogen compounds";"Piperidine alkaloids";1;10;2;1;7;33;46;19;2;1;0.0115501519756839;0.0115606936416185;0.04;1.9
+"Amino acids and peptides";"Amino acids and derivatives";1;3;9;6;3;27;55;8;0;1;0.00486322188449848;0.0520231213872832;0.012;2.66666666666667
+"Amino acids and peptides";"Proteins/peptides";1;5;11;8;4;110;146;18;1;1;0.0109422492401216;0.0635838150289017;0.02;3.6
+"Carbohydrates";"Polysaccharides";1;9;9;9;3;18;43;14;0;1;0.00851063829787234;0.0520231213872832;0.036;1.55555555555556
+"Carbohydrates";"Sugars and carbohydrate derivatives";1;26;25;18;8;96;192;56;22;1;0.0340425531914894;0.144508670520231;0.104;2.15384615384615
+"Lipids and lipid-like molecules";"Fatty acid esters";1;17;16;16;4;136;137;57;46;1;0.0346504559270517;0.092485549132948;0.068;3.35294117647059
+"Lipids and lipid-like molecules";"Fatty acids and derivatives";1;86;84;47;7;1571;1962;128;74;1;0.0778115501519757;0.485549132947977;0.344;1.48837209302326
+"Lipids and lipid-like molecules";"Fatty alcohols and wax constituents";1;9;10;9;2;24;24;18;14;1;0.0109422492401216;0.0578034682080925;0.036;2
+"Lipids and lipid-like molecules";"Glycerolipids";1;3;7;7;2;75;75;36;3;1;0.0218844984802432;0.0404624277456647;0.012;12
+"Lipids and lipid-like molecules";"Hydrocarbons";1;14;18;15;4;104;107;72;61;1;0.0437689969604863;0.104046242774566;0.056;5.14285714285714
+"Lipids and lipid-like molecules";"Other lipids";1;6;6;6;4;27;52;24;2;1;0.0145896656534954;0.0346820809248555;0.024;4
+"Lipids and lipid-like molecules";"Sphingolipids";1;3;3;3;3;10;10;10;0;1;0.0060790273556231;0.0173410404624277;0.012;3.33333333333333
+"Other primary metabolites";"Organic acids";1;13;69;44;3;107;126;24;16;1;0.0145896656534954;0.398843930635838;0.052;1.84615384615385
+"Other primary metabolites";"Other primary metabolites";1;3;3;3;2;5;5;5;4;1;0.00303951367781155;0.0173410404624277;0.012;1.66666666666667
+"Other specialized metabolites";"Benzofuran";1;2;2;2;2;2;2;2;0;1;0.00121580547112462;0.0115606936416185;0.008;1
+"Other specialized metabolites";"Chlorophylls and pheophytins";1;1;1;1;1;3;3;3;2;1;0.00182370820668693;0.00578034682080925;0.004;3
+"Other specialized metabolites";"Other specialized metabolites";1;2;2;2;1;2;2;2;1;1;0.00121580547112462;0.0115606936416185;0.008;1
+"Other specialized metabolites";"Plant hormone";1;3;3;3;3;4;4;3;3;1;0.00182370820668693;0.0173410404624277;0.012;1
+"Other specialized metabolites";"Volatile organic compounds";1;19;29;22;5;172;179;112;97;1;0.0680851063829787;0.167630057803468;0.076;5.89473684210526
+"Phenylpropanoids and polyketides";"Anthocyanins";1;31;18;12;5;89;113;47;10;1;0.0285714285714286;0.104046242774566;0.124;1.51612903225806
+"Phenylpropanoids and polyketides";"Biflavonoids";1;1;0;0;1;2;2;2;2;1;0.00121580547112462;0;0.004;2
+"Phenylpropanoids and polyketides";"Coumarins";1;4;4;4;4;7;7;7;7;1;0.00425531914893617;0.023121387283237;0.016;1.75
+"Phenylpropanoids and polyketides";"Flavanols and flavans";1;49;37;25;7;136;142;37;14;1;0.0224924012158055;0.213872832369942;0.196;0.755102040816326
+"Phenylpropanoids and polyketides";"Flavanones";1;15;21;14;5;46;52;11;5;1;0.00668693009118541;0.121387283236994;0.06;0.733333333333333
+"Phenylpropanoids and polyketides";"Flavones";1;45;45;24;8;179;216;63;27;1;0.0382978723404255;0.260115606936416;0.18;1.4
+"Phenylpropanoids and polyketides";"Flavonols";1;53;47;27;9;233;295;34;13;1;0.0206686930091185;0.271676300578035;0.212;0.641509433962264
+"Phenylpropanoids and polyketides";"Isoflavonoids";1;8;4;5;2;26;26;15;10;1;0.00911854103343465;0.023121387283237;0.032;1.875
+"Phenylpropanoids and polyketides";"Lignans and neolignans";1;13;10;8;6;35;35;27;16;1;0.0164133738601824;0.0578034682080925;0.052;2.07692307692308
+"Phenylpropanoids and polyketides";"Other phenolics";1;42;37;25;7;128;130;89;51;1;0.0541033434650456;0.213872832369942;0.168;2.11904761904762
+"Phenylpropanoids and polyketides";"Other/unspecified flavonoids";1;32;31;22;9;200;266;136;16;1;0.0826747720364742;0.179190751445087;0.128;4.25
+"Phenylpropanoids and polyketides";"Phenolic acids and derivatives";1;65;60;39;8;634;720;86;34;1;0.0522796352583587;0.346820809248555;0.26;1.32307692307692
+"Phenylpropanoids and polyketides";"Phenolic lipids";1;1;1;1;1;2;2;2;0;1;0.00121580547112462;0.00578034682080925;0.004;2
+"Phenylpropanoids and polyketides";"Proanthocyanidins";1;9;10;10;3;34;35;22;8;1;0.0133738601823708;0.0578034682080925;0.036;2.44444444444444
+"Phenylpropanoids and polyketides";"Stilbenoids";1;18;17;11;6;36;36;21;8;1;0.0127659574468085;0.0982658959537572;0.072;1.16666666666667
+"Terpenoids and steroids";"Carotenoids and apocarotenoids";1;24;27;21;6;85;90;35;11;1;0.0212765957446809;0.15606936416185;0.096;1.45833333333333
+"Terpenoids and steroids";"Diterpenoids";1;9;7;6;5;16;16;11;9;1;0.00668693009118541;0.0404624277456647;0.036;1.22222222222222
+"Terpenoids and steroids";"Monoterpenoids";1;19;30;22;5;148;148;73;48;1;0.0443768996960486;0.173410404624277;0.076;3.84210526315789
+"Terpenoids and steroids";"Other terpenoids";1;16;17;14;6;65;67;41;8;1;0.0249240121580547;0.0982658959537572;0.064;2.5625
+"Terpenoids and steroids";"Saponins";1;10;10;7;5;50;50;41;12;1;0.0249240121580547;0.0578034682080925;0.04;4.1
+"Terpenoids and steroids";"Sesquiterpenoids";1;18;23;17;5;143;144;80;48;1;0.0486322188449848;0.132947976878613;0.072;4.44444444444444
+"Terpenoids and steroids";"Steroids and sterols";1;42;33;26;8;128;129;57;32;1;0.0346504559270517;0.190751445086705;0.168;1.35714285714286
+"Terpenoids and steroids";"Tocochromanols";1;13;18;17;5;54;93;9;2;1;0.00547112462006079;0.104046242774566;0.052;0.692307692307692
+"Terpenoids and steroids";"Triterpenoids";1;25;27;22;5;73;74;54;18;1;0.0328267477203647;0.15606936416185;0.1;2.16
+"Vitamins and cofactors";"Vitamins/cofactors";1;11;13;9;4;36;92;14;7;1;0.00851063829787234;0.0751445086705202;0.044;1.27272727272727
